@@ -1,0 +1,30 @@
+body {
+    background-color: lightskyblue;
+}
+
+h3 {
+    margin: .1rem;
+    text-align: center;
+    border: .2rem solid blue;
+}
+.cincoCircleContainer {
+    width: 10rem;
+    height: 10rem;
+    border: .2rem solid black;
+    margin: auto;
+    text-align: center;
+}
+.unoCircle {
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    border: .2rem solid white;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.finalTenCirclesContainer{
+    text-align: center;
+}
+.finalTenCirclesContainer div{
+    display: inline-block;
+}
