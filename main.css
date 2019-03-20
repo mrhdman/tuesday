@@ -28,3 +28,10 @@ h3 {
 .finalTenCirclesContainer div{
     display: inline-block;
 }
+.scorersTable {
+    text-align: center;
+}
+.scorersTable span{
+    border-top: .2rem solid black;
+    border-left: .2rem solid black;
+}
